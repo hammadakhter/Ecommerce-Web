@@ -72,7 +72,7 @@ const remove = (item)=>{
               <Table>
                 <tr>
                   <td>
-                    <p> <strong>Restaurant</strong>  : {ele.rname}</p>
+                    <p> <strong>Items</strong>  : {ele.rname}</p>
                     <p> <strong>Price</strong>  : Rs{ele.price}</p>
                     <p> <strong>Dishes</strong>  : {ele.address}</p>
                     <p> <strong>Total</strong>  :Rs {ele.price * ele.qnty}</p>

@@ -86,7 +86,7 @@ const Header = () => {
                                 <thead>
                                     <tr>
                                         <th>Photo</th>
-                                        <th>Restaurant Name</th>
+                                        <th>Items Name</th>
                                     </tr>
                                 </thead>
                                 <tbody>

@@ -26,7 +26,7 @@ const Cardsdata = [
     {
         id: 3,
         rname: "Mens Shoes",
-        imgdata: "https://ae01.alicdn.com/kf/Sa2627256ff29469e920f25254cef78afG/Men-s-summer-slip-on-casual-flat-socks-shoes-new-fashion-breathable-knitted-mesh-sneakers-shock.jpg",
+        imgdata: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTren5Kha7qxwuWWKQw_-cpxObKRDSjjTvFGBdVcWcKWL3Ru52kUBz_eQA7j608BQCuN4&usqp=CAU",
         address: "Ecommerce-website,karachi",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 650 + order placed from here recently",
